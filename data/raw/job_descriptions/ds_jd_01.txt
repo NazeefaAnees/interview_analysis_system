@@ -1,0 +1,30 @@
+
+**Data Scientist - Southeast Asia (Philippines)**
+
+We’re seeking a talented Data Scientist to lead our launch in Southeast Asia, starting with the Philippines. You'll drive end-to-end development and deployment of machine learning models, working closely with cross-functional teams in a dynamic startup environment. Your work will directly support fair credit access in a rapidly growing region.
+
+**Responsibilities:**
+- Build and deploy ML models to grow user base, boost retention, and minimize losses.
+- Develop analytics pipelines and data standards for strategic decision-making.
+- Collaborate with product, engineering, and business teams to align analytics with business goals.
+- Influence underwriting, marketing, fraud detection, and customer experience strategies.
+
+**Qualifications:**
+- Based in an Asia-Pacific time zone.
+- Bachelor's degree in Engineering, CS, Finance, Mathematics, or related fields.
+- 4+ years in data mining, machine learning, or predictive modeling.
+- Proficient in Python, SQL, and ML frameworks (scikit-learn, LightGBM, XGBoost).
+- Experience building predictive models and data pipelines from scratch.
+- Strong analytical and structured problem-solving skills.
+
+**Preferred:**
+- Advanced degree (MS/PhD).
+- Experience in fintech or banking, especially credit analytics.
+- Knowledge of deep learning (TensorFlow, PyTorch, Keras).
+- Cloud computing skills (AWS/Azure).
+- Mandarin proficiency.
+- Experience in emerging markets.
+
+*Occasional travel (twice yearly) for company events.*
+
+Empower is committed to fostering an inclusive, diverse, and equitable workplace.

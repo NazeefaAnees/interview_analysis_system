@@ -1,0 +1,32 @@
+
+
+### **Software Engineer – Java**
+
+**Location:** Colombo, Sri Lanka
+
+**About Wiley:**  
+At Wiley, our mission is to unlock human potential through learning. We value diversity, innovation, and passion—bring your experiences and join our growing team in Sri Lanka.
+
+**Role Overview:**  
+We're looking for Java Engineers (3+ years) to develop and support Wiley’s research, education, and corporate learning platforms. You’ll collaborate closely with architects, engineers, and product owners to build complex applications, ensure high-quality standards, and mentor junior engineers.
+
+**Key Responsibilities:**  
+- Develop, test, and maintain web applications and APIs using Java, Spring Boot, ReactJS, REST APIs, and microservices.
+- Lead design discussions, provide solutions, and mentor junior developers.
+- Perform code reviews and ensure code quality.
+- Manage production systems, quickly addressing issues.
+- Adhere to Agile and DevOps best practices.
+
+**Requirements:**  
+- Bachelor’s degree in Computer Science or related field.
+- 3+ years’ experience with Java, Spring Boot, ReactJS, and SQL/NoSQL databases (MySQL, MongoDB).
+- Familiarity with microservices architecture and AWS cloud technologies.
+- Good understanding of caching, front-end technologies, and web architecture.
+- Strong knowledge of Agile methodologies and DevOps practices (CI/CD, GitOps).
+- Experience using tools like JIRA and writing user stories.
+- Strong communication skills and ability to guide junior developers.
+
+**Nice-to-Have:**  
+- Experience in quality engineering and automation.
+
+Join us at Wiley and shape the future of learning!

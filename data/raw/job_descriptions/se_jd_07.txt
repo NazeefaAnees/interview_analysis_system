@@ -1,0 +1,27 @@
+
+
+### **.NET Software Developer**
+
+**Role Overview:**  
+You’ll develop, deploy, and optimize high-quality .NET applications, collaborating closely with cross-functional teams to deliver scalable, efficient solutions using modern Azure cloud services.
+
+**Key Responsibilities:**  
+- Design, develop, and maintain efficient .NET applications.
+- Implement secure Authentication and Authorization mechanisms (Open API, OAuth 2.0).
+- Optimize databases with Entity Framework and SQL Server.
+- Utilize Azure services (Storage, Functions, Data Factory, App Insights).
+- Apply software design patterns to enhance code quality.
+- Participate in Agile development practices and sprint cycles.
+- Manage code versions using Git/GitHub.
+- Troubleshoot application issues and ensure rapid resolution.
+- Stay current with technology trends and industry best practices.
+
+**Qualifications:**  
+- 4+ years’ experience in .NET/C# development.
+- 2+ years’ experience with Azure (Storage, Functions, Data Factory, App Insights).
+- Strong knowledge of Authentication (OAuth 2.0, Open API).
+- Expertise in Entity Framework, SQL Server, and database optimization.
+- Solid understanding of Design Patterns and software architecture.
+- Experience in Agile methodologies.
+- Proficient in source control (Git, GitHub).
+- Excellent problem-solving, communication, and collaboration skills.

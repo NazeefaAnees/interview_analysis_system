@@ -1,0 +1,15 @@
+
+
+### **AI Engineer**
+
+**Key Requirements:**
+- 1–2 years of hands-on experience in AI, including exploratory data analysis, data pipeline development, model building, and evaluation.
+- Strong theoretical and practical knowledge of Machine Learning.
+- Experience developing deep learning models, especially for NLP applications.
+- Familiarity with Generative AI, advanced prompting techniques, and model fine-tuning.
+- Experience building pipelines integrating externally hosted (and ideally locally hosted) Large Language Models (LLMs).
+- Comprehensive experience implementing and evaluating Retrieval-Augmented Generation (RAG) pipelines.
+- Proficiency with orchestration frameworks (e.g., LangChain) for efficient LLM usage.
+- Familiarity with evaluation frameworks for Generative AI text-generation (e.g., RAGAs, TruLens).
+
+---

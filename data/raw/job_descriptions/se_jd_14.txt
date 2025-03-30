@@ -1,0 +1,23 @@
+
+
+### **Software Engineer (.NET/React)**
+
+**About the Role:**  
+We're building a new cloud platform to deliver exceptional customer experiences. We seek talented Software Engineers passionate about design, development, and integration using React, C#, and Azure cloud services.
+
+**Responsibilities:**  
+- Develop, integrate, and quality assure applications built with React, C#, and Azure.
+- Streamline processes and tools for seamless product delivery.
+- Collaborate closely within cross-functional teams.
+
+**Qualifications:**  
+- Degree in Software Engineering, IT, or Computer Science.
+- 2+ years’ experience in a similar role.
+- Strong JavaScript knowledge, including React, TypeScript, HTML, CSS.
+- Proficiency in C# (.NET Core).
+- Familiarity with SQL, Git, Azure DevOps.
+- Experience with Azure Web Apps, Microservices, Azure Kubernetes, and CI/CD pipelines.
+- Full-stack development experience is advantageous.
+- Good communication, multitasking, and innovative thinking skills.
+
+Join us to shape an innovative cloud experience!

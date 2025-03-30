@@ -1,0 +1,37 @@
+
+
+### **Staff Machine Learning Engineer**
+
+**Location:** Sri Lanka  
+**Company:** Synopsys Central Engineering (SCE)
+
+Join Synopsys’ world-class SCE team as a **Staff Machine Learning Engineer**, leading and developing cutting-edge AI/ML tools and applications. You’ll work collaboratively to build innovative software solutions deployed in cloud and on-prem environments.
+
+---
+
+### **Responsibilities:**
+- Lead technical direction and execution of AI/ML projects.
+- Design, develop, and implement AI/ML-based solutions.
+- Integrate advanced AI/ML techniques into existing software products.
+- Re-design and enhance existing applications to boost R&D productivity.
+
+---
+
+### **Required Qualifications:**
+- BSc/MSc in Computer Science, Electronics Engineering, or related fields.
+- 7+ years of industry experience in software development and deployment.
+- Strong expertise in Data Structures & Algorithms.
+- Knowledge and experience with Machine Learning and Data Science.
+- Excellent programming skills, especially in Python.
+- Familiarity with cloud technologies and distributed computing (preferred).
+- Proven leadership and team collaboration abilities.
+- Ability to quickly learn and adapt to new technologies.
+
+---
+
+### **About Synopsys:**
+Synopsys, Inc. is a global leader in electronic design automation (EDA), semiconductor IP, and software quality/security solutions, ranked as the world’s 15th-largest software company. We power innovations such as self-driving cars, AI, cloud computing, 5G, and IoT, shaping the "Era of Smart Everything."
+
+**We value inclusion and diversity**, welcoming applicants from all backgrounds.
+
+---

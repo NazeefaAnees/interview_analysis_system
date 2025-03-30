@@ -1,0 +1,35 @@
+
+### **Senior Software Engineer – JavaScript/TypeScript**
+
+**Company:** IFS Ultimo (An IFS Company)  
+**Location:** Sri Lanka
+
+**About IFS Ultimo:**  
+IFS Ultimo is a leading Enterprise Asset Management (EAM) software provider serving over 2,000 global customers. Our flexible and highly configurable SaaS solutions enable asset owners to optimize productivity, asset availability, and health and safety compliance. Since July 2022, we are part of the global enterprise software leader IFS.
+
+**Role Overview:**  
+As a Senior Software Engineer, you will contribute to the development of our cloud-based, low-code platform, focusing on improving UI/UX components. You’ll collaborate within an agile team, designing and implementing user-friendly software using TypeScript, JavaScript, and ASP.NET.
+
+**Responsibilities:**  
+- Develop and enhance front-end logic using JavaScript/TypeScript.
+- Improve our proprietary JavaScript framework and platform tools.
+- Translate user stories into functional features.
+- Collaborate closely with multidisciplinary agile teams.
+- Guide architectural and technical decisions, clearly communicating choices.
+
+**Required Qualifications:**  
+- Bachelor's degree in Computer Science, Software Engineering, or related field.
+- 4+ years’ experience in web development (JavaScript/TypeScript).
+- Strong analytical skills and problem-solving capabilities.
+- Excellent knowledge of JavaScript/TypeScript; familiarity with frameworks like Angular, React, or Vue is a plus.
+- Basic understanding of .NET (C#) and ASP.NET advantageous.
+- Proficient in Agile methodologies (Scrum).
+- Familiarity with version control and continuous integration (CI/CD).
+- Excellent English communication skills.
+
+**Preferred Skills:**  
+- Experience in software architecture and design.
+- Experience developing or working with low-code platforms.
+- Adaptability to evolving environments and technologies.
+
+Join us in building innovative solutions at the forefront of EAM technology!

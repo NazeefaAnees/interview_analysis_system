@@ -1,0 +1,25 @@
+
+
+### **Data Scientist**
+
+Join **Paradigm**, a rapidly-growing AI startup focused on delivering innovative, data-driven solutions. As a Data Scientist, you'll collaborate closely with our expert team to build predictive models, analyze large datasets, and deliver actionable insights for US-based clients.
+
+**Key Responsibilities:**
+- Collaborate with cross-functional teams to identify data-driven solutions for complex business problems.
+- Develop, implement, and refine advanced machine learning models.
+- Analyze and interpret large datasets to generate actionable insights.
+- Stay current with the latest developments in data science and machine learning.
+
+**Qualifications:**
+- Bachelor's or Master's degree in Computer Science, Statistics, Mathematics, or related fields.
+- 3-5 years experience in data science or machine learning.
+- Proficient in Python or R programming.
+- Familiarity with ML frameworks (TensorFlow, Keras, scikit-learn).
+- Strong statistical knowledge (regression, hypothesis testing, distributions).
+- Excellent problem-solving, teamwork, and communication skills.
+
+**Preferred:**
+- Experience with Kaggle or other data science competitions.
+- Familiarity with data visualization tools (Tableau, Power BI).
+
+Join us and help shape the future of AI technology!

@@ -1,0 +1,31 @@
+
+### **Senior / Lead Software Engineer – Product Support**
+
+**About Sitecore:**  
+Sitecore is a leading digital experience platform used by top global brands like American Express, Porsche, Starbucks, L’Oréal, and Volvo Cars. We deliver personalized, engaging customer experiences by combining content, commerce, and data in a unified platform.
+
+**Role Overview:**  
+As a Senior/Lead Software Engineer in Product Support, you’ll help Sitecore partners and customers troubleshoot complex technical issues. You’ll deeply investigate and resolve challenges, contribute directly to Sitecore products, develop code patches, create technical documentation, and mentor team members. The role requires participation in a 24x7 rotation schedule.
+
+**Responsibilities:**  
+- Provide technical support by analyzing and troubleshooting complex issues within Sitecore products.
+- Develop code examples and patches to resolve customer challenges.
+- Collaborate directly with Certified Sitecore Developers globally.
+- Contribute to the development and maintenance of Sitecore products and internal tools.
+- Develop and maintain technical guides and documentation.
+- Mentor, coach, and onboard new engineers.
+
+**Qualifications:**  
+- 3+ years of technical experience in software engineering or technical support.
+- Strong experience with Microsoft technologies (.NET/C#, ASP.NET, Visual Studio, MS SQL Server, Azure).
+- Good knowledge of web technologies (HTML, XML/JSON, JavaScript, CSS).
+- Excellent problem-solving, communication (English), and decision-making skills.
+- Understanding of OOP, client-server architecture, and software algorithms.
+- Coaching and mentorship skills.
+
+**Preferred Experience (a plus):**  
+- Team leadership or management experience.
+- ITIL Certification.
+- Experience supporting SaaS platforms and troubleshooting performance/scalability.
+- Knowledge of Linux, Kubernetes, Elastic, Redis, Kibana, Grafana, Kafka, GraphQL, Cloudflare.
+- Familiarity with JavaScript frameworks (Knockout, React, Vue).

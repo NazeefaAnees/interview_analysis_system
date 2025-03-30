@@ -1,0 +1,29 @@
+
+**Software Engineer - Job Description**
+
+**About WorkWave:**  
+WorkWave provides SaaS solutions for field service management, serving industries like HVAC, Plumbing & Electrical, Cleaning, Lawn & Landscape, Home Delivery, Logistics & Distribution. We empower businesses to deliver exceptional customer experiences and drive growth using our intuitive platform.
+
+**Role Overview:**  
+We’re seeking innovative Software Engineers to join our collaborative team of developers, product managers, and UI/UX designers. You'll contribute to building and enhancing WorkWave’s suite of products.
+
+**Responsibilities:**  
+- Design, develop, and maintain software applications, including new features and system improvements.
+- Maintain and enhance Windows WinForms applications.
+- Support development and enhancement of web and mobile applications.
+- Write and execute unit tests to ensure software quality.
+- Provide technical guidance to team members and stakeholders.
+- Collaborate with cross-functional teams to deliver high-quality solutions.
+- Create and maintain technical documentation and best practice guides.
+
+**Qualifications:**  
+- Bachelor’s degree in Software Engineering, IT, or Computer Science.
+- 3-7 years of experience in .NET framework (C#, VB.NET).
+- Experience with React or MAUI (mobile) is a plus.
+- Familiarity with Azure cloud services (App Services, Service Bus, Function Apps, Azure DevOps).
+- Knowledge of Agile development (tools like Jira).
+- Strong problem-solving skills and attention to detail.
+- Excellent communication and teamwork skills.
+
+**Additional Information:**  
+We value flexibility, offering a balanced hybrid environment combining remote work and in-office collaboration to foster community and innovation.

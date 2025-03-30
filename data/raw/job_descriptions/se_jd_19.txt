@@ -1,0 +1,33 @@
+
+### **Software Engineer – Java**
+
+**Company:** Pearson  
+**Location:** Colombo, Sri Lanka
+
+**Role Overview:**  
+As a Software Engineer at Pearson, you’ll play a key role in software engineering tasks, developing high-quality, maintainable code, and working collaboratively within dynamic, goal-driven project teams.
+
+**Key Responsibilities:**  
+- Design, develop, and deliver high-quality software solutions in Java (Spring Boot, Spring WebFlux - Reactive).
+- Follow and advocate software engineering best practices and Pearson's Agile methodologies.
+- Provide accurate estimates and ensure timely delivery of tasks.
+- Conduct code reviews, mentor junior engineers, and maintain code quality standards.
+- Address production incidents swiftly, providing timely fixes and improvements.
+- Maintain strong collaboration and communication with global teams and stakeholders.
+
+**Qualifications:**  
+- Bachelor’s degree in Computer Science, IT, Engineering, or related field.
+- Minimum of 3 years experience in software engineering, web application development, and design.
+- Solid experience with Java, Spring Boot, Spring WebFlux (Reactive), and JUnit.
+- Familiarity with CI/CD pipelines, Bitbucket/GitLab, Agile practices, and IDEs.
+- Strong understanding of Object-Oriented Programming and Design.
+- Excellent communication and interpersonal skills, proficient in English.
+
+**Preferred (additional) skills:**  
+- Experience with Python 3.x.
+- Familiarity with AWS services (Lambda, ECS, CloudFormation, CloudWatch, API Gateway).
+
+**Why Pearson?**  
+Pearson is recognized as a top innovative education company, dedicated to digital transformation and impactful lifelong learning experiences. We prioritize diversity, equity, inclusion, and continuous growth, fostering a vibrant workplace for all employees.
+
+Join us to create technology solutions that shape the future of education!

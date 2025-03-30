@@ -1,0 +1,24 @@
+
+
+### **Machine Learning Engineer**
+
+Join our small, dynamic team focused on designing, building, and maintaining innovative ML products that power our business. You'll develop mission-critical applications, ML models, and data integrations using large-scale datasets and cutting-edge techniques.
+
+---
+
+**Responsibilities:**
+- Design, build, test, optimize, and deploy ML pipelines in production.
+- Research and implement ML algorithms (predictive modeling, computer vision, NLP, OCR, etc.).
+- Collaborate with cross-functional teams from concept to deployment, ensuring technical excellence and timely delivery.
+- Adhere to established engineering practices, coding standards, and quality controls.
+- Ensure ML applications meet client requirements and deadlines.
+
+---
+
+**Requirements:**
+- 3+ years experience as a Data Scientist or ML Engineer.
+- 3+ years coding experience in Python and/or R.
+- 2+ years experience with ML/DL applications (predictive modeling, computer vision, NLP, OCR).
+- Solid understanding of data science, ML frameworks, data visualization, and model optimization techniques.
+
+---

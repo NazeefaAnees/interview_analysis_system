@@ -1,0 +1,23 @@
+
+### **Software Engineer (C# API Developer)**
+
+**Responsibilities:**  
+- Design, develop, and maintain robust software using C# APIs and JSON.
+- Collaborate effectively in a remote environment, participating actively in virtual meetings.
+- Create and maintain clear technical documentation.
+- Analyze user requirements and deliver scalable solutions.
+- Conduct regular code reviews to ensure quality and maintainability.
+
+**Requirements:**  
+- Bachelor's degree in Computer Science, Software Engineering, or a related field.
+- Minimum 2 years of experience in software development.
+- Strong proficiency in C# API development and JSON.
+- Comfortable with remote collaboration, demonstrating self-motivation and excellent time management.
+- Analytical mindset, proactive in problem-solving.
+- Excellent verbal and written communication skills.
+- Ability to foster positive teamwork and inclusive culture.
+
+**Additional Skills (a plus):**  
+- Familiarity with other relevant technologies and frameworks.
+
+---

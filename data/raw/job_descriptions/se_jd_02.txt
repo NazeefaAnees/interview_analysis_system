@@ -1,0 +1,24 @@
+
+**Senior Software Engineer**
+
+**About Noon:**  
+Noon is the largest e-commerce platform in the Middle East, rapidly expanding across e-commerce, quick-commerce, fintech, food delivery, grocery, and fashion. We’re ambitious, innovative, and shaping the future of online shopping.
+
+**Key Responsibilities:**  
+- Develop and deliver high-quality, scalable solutions.
+- Evaluate and optimize API designs for app implementation.
+- Identify new technologies and patterns to enhance architecture.
+- Prototype new features collaboratively with product teams.
+- Work closely with Back-End, DevOps, and Infrastructure teams.
+- Contribute to technical planning and strategic roadmaps.
+- Support organizational goals and overall technical performance.
+
+**Skills Required:**  
+- 5+ years as a Software Engineer; senior-level experience required.
+- 1-2 years of team leadership experience preferred.
+- Bachelor’s degree in Computer Science or related field (Master’s preferred).
+- Strong knowledge of system design, data structures, and algorithms.
+- Expertise in JavaScript, React, React Native, NodeJS, and TypeScript.
+- Solid understanding of data/state management, UI, and API design.
+- Hands-on experience with cloud platforms.
+- Highly accountable, self-driven, and capable of managing large-scale projects end-to-end.

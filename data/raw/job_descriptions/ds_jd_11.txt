@@ -1,0 +1,40 @@
+
+
+### **ML/Python Backend Engineer (Part-Time, Remote - Sri Lanka)**
+
+**About Catalyst Labs:**  
+Catalyst Labs empowers businesses through exceptional offshore teams specializing in BPO and KPO services. We're looking for a motivated **ML/Python Backend Engineer** to join our remote Sri Lankan team part-time, developing innovative features for generative AI applications using LiteLLM, LangChain, and OpenAI APIs.
+
+---
+
+**Key Responsibilities:**
+- Develop and maintain APIs using FastAPI.
+- Integrate LLM APIs (OpenAI, Groq, Anthropic).
+- Work with vector databases for AI-powered applications.
+- Develop and optimize asynchronous Python applications (Asyncio, HTTPX).
+
+---
+
+**Required Qualifications:**
+- Proficiency with FastAPI and developing RESTful APIs.
+- Experience with LLM API providers (OpenAI, Groq, Anthropic).
+- Familiarity with vector databases.
+- Experience with asynchronous Python libraries (Asyncio, HTTPX).
+
+**Preferred Qualifications:**
+- Ability to write async wrappers for non-async libraries.
+- AWS cloud experience.
+- Git and GitHub Actions proficiency.
+- Experience writing unit tests for AI/LLM applications.
+- Understanding of Agentic and RAG design patterns.
+- Strong grasp of OOP and SOLID principles.
+
+**Educational Qualifications:**
+- Degree in Software Engineering, Computer Science, or related field.
+
+---
+
+**Benefits:**
+- Fully remote role with flexible working hours.
+- Join a dynamic, growth-driven team environment.
+
