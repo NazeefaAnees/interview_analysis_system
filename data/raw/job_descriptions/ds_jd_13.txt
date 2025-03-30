@@ -1,0 +1,33 @@
+
+
+### **Machine Learning Engineer**
+
+**About Bilby:**  
+Bilby is a Hong Kong-based technology firm specializing in analyzing global government policies using publicly available data. We quantify risks and opportunities, providing crucial insights into financial markets and business operations.
+
+We are seeking a skilled Machine Learning Engineer to help us enhance our search capabilities, leverage AI models, and develop innovative data-driven solutions.
+
+---
+
+**Key Responsibilities:**
+- Develop and optimize Elasticsearch-based search systems, writing complex queries for performance and accuracy.
+- Integrate Large Language Models (LLMs), particularly using OpenAI APIs, to generate intelligent summaries and insights.
+- Collaborate with full-stack engineers to deliver comprehensive data-driven products.
+- Conduct ML research for document clustering, summarization, and practical graph database applications.
+
+---
+
+**Qualifications:**
+- Proven experience with Elasticsearch and complex query optimization.
+- Strong knowledge of AI models, especially LLMs and OpenAI integration.
+- Experience with ML-driven clustering, summarization, and graph database searches.
+- Familiarity with BigQuery and Neo4j or ability to quickly learn these technologies.
+- Excellent analytical, problem-solving, and collaborative skills.
+
+---
+
+**Personal Attributes:**
+- Thoughtful communicator with excellent interpersonal skills.
+- Adaptive, practical, and detail-oriented.
+- Results-driven and capable of rapid learning and application of new technologies.
+

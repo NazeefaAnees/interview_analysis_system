@@ -1,0 +1,31 @@
+
+### **Data Scientist**
+
+**What You'll Do:**
+- Build machine learning, statistical, and deep learning models to solve real-world business problems.
+- Design, train, and evaluate models; architect robust ML pipelines.
+- Collaborate with ML and data engineers to deploy models into production.
+- Analyze structured/unstructured data to drive actionable insights.
+- Utilize frameworks like TensorFlow, PyTorch, and Scikit-Learn effectively.
+- Explore research areas such as NLP, computer vision, reinforcement learning, generative AI, and optimization.
+- Mentor junior team members.
+
+---
+
+**What We Expect:**
+- 2+ years of Data Science experience.
+- Bachelor’s degree in IT, Computer Science, or related field (Master’s is a plus).
+- Strong Python programming skills and model experimentation capabilities.
+- Solid experience in ML/DL frameworks (TensorFlow, PyTorch, Scikit-Learn).
+- Proficiency in data preprocessing tools (Pandas, PySpark).
+- Experience deploying models on cloud platforms (AWS, Azure, GCP).
+- Understanding of statistical inference, optimization methods, and core CS algorithms.
+- Familiarity with analytics and visualization tools (Power BI, Tableau).
+- Excellent analytical, problem-solving, and communication skills.
+
+**Nice to Have:**
+- Research publications in Deep Learning.
+- Open-source contributions.
+
+We seek individuals committed to **Excellence**, **Collaboration**, and **Integrity**.
+

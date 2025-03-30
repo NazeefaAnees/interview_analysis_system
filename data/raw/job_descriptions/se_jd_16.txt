@@ -1,0 +1,33 @@
+
+### **Software Engineer (Node.js)**  
+**Intrepid Travel - Colombo, Sri Lanka (Hybrid)**  
+
+**About Intrepid Travel:**  
+Intrepid Travel creates unforgettable journeys, inspiring travelers and benefiting the planet. Operating for over 34 years, we're a certified B Corp offering hundreds of trips in 100+ countries.
+
+**Role Overview:**  
+As a Software Engineer, you'll build, maintain, and enhance the software powering Intrepid's core business. You’ll collaborate with talented engineers to design robust backend systems, APIs, and databases, ensuring seamless experiences for customers and staff.
+
+**Responsibilities:**  
+- Develop backend applications using Node.js, JavaScript, and TypeScript.
+- Design and implement RESTful APIs.
+- Maintain and enhance relational and NoSQL databases (MSSQL, PostgreSQL, MongoDB).
+- Ensure clean, readable code following best practices (SOLID, OOP).
+- Collaborate with engineering teams to deliver high-quality features.
+- Manage software versioning and CI/CD processes using GitHub Actions and Git.
+
+**Qualifications:**  
+- Bachelor’s Degree in Computer Science, IT, or equivalent qualification.
+- Minimum 2 years’ experience in software engineering.
+- Proficient with Node.js, JavaScript, and TypeScript.
+- Experienced in API design and database technologies.
+- Familiarity with Git, CI/CD, and GitHub Actions.
+
+**Perks & Benefits:**  
+- Flexible working arrangements (hybrid and remote options).
+- A free Intrepid trip annually; discounts for family and friends.
+- Additional leave for Intrepid trips, parental leave, volunteer leave.
+- Continuous learning and professional development.
+- Employee Assistance Program offering 24/7 support.
+
+Join Intrepid and help create impactful travel experiences worldwide!

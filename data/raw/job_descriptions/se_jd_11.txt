@@ -1,0 +1,32 @@
+
+### **Software Developer**
+
+**Role Overview:**  
+You'll design, develop, and maintain scalable web and mobile applications, integrating IoT solutions using modern frameworks and cloud technologies (Angular, Node.js, AWS, MongoDB/DynamoDB).
+
+**Responsibilities:**
+
+**Software Development:**
+- Develop high-performance applications using Angular, Node.js, and JavaScript.
+- Build and manage scalable applications with NoSQL databases (MongoDB, DynamoDB).
+- Develop cloud solutions using AWS (Lambda, S3, SQS, SNS, AWS Batch).
+- Implement and integrate IoT solutions ensuring real-time processing and scalability.
+
+**Collaboration & Delivery:**
+- Work closely with Product, UX/UI teams, and stakeholders to deliver timely features.
+- Own end-to-end development, ensuring quality, scalability, and security.
+
+**Problem Solving & Optimization:**
+- Troubleshoot, debug, and optimize software for enhanced performance and UX.
+- Collaborate across teams to resolve production issues efficiently.
+
+**Continuous Learning & Leadership:**
+- Stay current on industry trends, technologies, and best practices (AWS, IoT).
+- Mentor junior team members and actively participate in team knowledge-sharing.
+- Take ownership, lead by example, and drive best practices within the team.
+
+**Required Skills:**
+- Expertise in Angular, Node.js, JavaScript.
+- Experience with AWS services and NoSQL databases.
+- Strong problem-solving, debugging, and optimization skills.
+- Ability to lead, collaborate, and communicate effectively across teams.

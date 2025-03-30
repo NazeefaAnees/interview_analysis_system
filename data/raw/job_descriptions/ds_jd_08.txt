@@ -1,0 +1,22 @@
+
+
+### **Senior AI Engineer**
+
+Join **Synopsys’ Generative AI Center of Excellence**, a team pioneering innovative generative AI solutions across the company. We're looking for a Senior AI Engineer to design, build, and deploy advanced AI and ML models, collaborating cross-functionally to deliver cutting-edge technology.
+
+**Key Responsibilities:**
+- Design, develop, and deploy AI/ML models addressing complex business challenges.
+- Collaborate closely with product managers, architects, and stakeholders on AI initiatives.
+- Conduct data analysis, preprocessing, and feature engineering for ML models.
+- Train, validate, and optimize machine learning models for accuracy and performance.
+- Stay current with emerging AI/ML trends and integrate improvements into existing systems.
+- Document and communicate methods, processes, and model outcomes clearly.
+
+**Qualifications:**
+- Bachelor’s or Master’s degree in Computer Science, Electrical Engineering, or related fields.
+- 3+ years of experience in machine learning and software engineering.
+- Strong programming skills (Python or C++).
+- Solid understanding of data structures, algorithms, and design patterns.
+- Experience with ML frameworks (TensorFlow, PyTorch, scikit-learn).
+- Excellent analytical, problem-solving, and communication skills.
+- Ability to work both independently and collaboratively.

@@ -1,0 +1,33 @@
+
+
+### **Senior Machine Learning Engineer**
+
+Join **OCTAVE** as a Senior Machine Learning Engineer, and play a critical role in developing, deploying, and optimizing advanced ML models and algorithms. You'll collaborate closely with data scientists, engineers, domain experts, and clients to address complex business challenges.
+
+---
+
+**Key Responsibilities:**
+- Develop and deploy scalable machine learning models and pipelines.
+- Implement state-of-the-art MLOps practices (feature stores, model monitoring, CI/CD, etc.).
+- Optimize ML models for performance and reliability in production environments.
+- Research and apply cutting-edge AI/ML techniques and tools.
+- Collaborate cross-functionally to align technical solutions with business needs.
+- Continuously monitor model performance and implement improvements.
+- Maintain comprehensive documentation of code, models, and processes.
+- Provide meaningful code reviews and effectively communicate insights and ideas.
+
+---
+
+**Technical Skills:**
+- Bachelor's/Master's degree in Computer Science, AI, ML, or related fields.
+- At least 1 year of experience developing and deploying ML models.
+- Hands-on experience with PySpark optimization in cluster environments.
+- Proficient in Python and ML frameworks (TensorFlow, PyTorch, scikit-learn, Keras).
+- Experience deploying models using containerization (Docker/Kubernetes) and cloud platforms.
+- Passionate about staying current with ML advancements and best practices.
+
+**Soft Skills & Leadership:**
+- Strong analytical, problem-solving, and collaborative abilities.
+- Excellent communication and stakeholder engagement skills.
+- Proven ability to manage projects independently, ensuring timely, high-quality delivery.
+- Capable of mentoring junior team members.

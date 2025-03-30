@@ -1,0 +1,30 @@
+
+**Principal Software Engineer**
+
+**Summary:**  
+The Principal Software Engineer leads the software development team, ensuring high-quality design, delivery, and adherence to best practices. This hands-on role involves collaboration with business analysts, architects, QA, project managers, and clients to deliver timely and robust solutions.
+
+**Key Responsibilities:**  
+- Lead software development projects, ensuring timely and quality delivery.
+- Collaborate closely with cross-functional teams to define requirements, solutions, and project timelines.
+- Introduce new technologies to enhance solution capabilities.
+- Foster a culture focused on accountability, ownership, and continuous improvement.
+- Set and enforce development standards, conduct code reviews, and mentor team members.
+- Ensure maintainability and scalability of code.
+- Strategically manage team resources, skills, and workloads.
+
+**Qualifications & Experience:**  
+- Bachelor’s degree in Computer Science or related field.
+- 9+ years in commercial software development; 4+ years leading development teams.
+- Deep expertise in Java, plus proficiency in another programming language.
+- Experience with frontend and backend technologies, scripting (e.g., Python), and frameworks like Spring.
+- Background in cloud-native, high-volume transactional systems.
+- Familiarity with AWS (preferred), Azure, or GCP.
+- Strong knowledge of CI/CD, DevOps practices, SDLC, API design/integration, and test-driven development.
+- Experience in modernizing legacy applications and managing technical debt.
+
+**Skills & Abilities:**  
+- Strong understanding of Object-Oriented principles and functional programming.
+- Proficient in relational/non-relational databases.
+- Skilled in infrastructure-as-code and DevOps tools.
+- Excellent communication and analytical skills.

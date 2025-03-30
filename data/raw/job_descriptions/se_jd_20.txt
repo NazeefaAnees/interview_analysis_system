@@ -1,0 +1,34 @@
+
+
+### **Staff Java Developer**
+
+**Company:** Rhapsody Health  
+**Location:** Colombo, Sri Lanka  
+
+**About Rhapsody:**  
+Rhapsody Health revolutionizes healthcare with innovative technology, empowering providers and patients globally. As a certified B Corporation, we balance purpose with profitability, creating impactful healthcare solutions worldwide.
+
+**Role Overview:**  
+We’re seeking an experienced Staff Java Developer to lead technical initiatives within agile teams, driving the planning, development, and delivery of our healthcare solutions.
+
+**Key Responsibilities:**  
+- Act as a technical lead (Scrum Master) for your squad, managing task planning and assignments.
+- Develop, implement, and test software solutions using Java.
+- Conduct and oversee merge requests, code reviews, and resolve Git conflicts.
+- Ensure adherence to coding standards and Rhapsody’s development lifecycle policies.
+- Write and maintain unit and integration tests.
+
+**Required Qualifications:**  
+- 5+ years of software engineering experience, with deep expertise in Java servlet/web technologies.
+- Proficiency in SQL databases (Postgres preferred).
+- Solid understanding of data communication and security.
+- Familiarity with Git, Eclipse, CI/CD (GitLab preferred), and AWS infrastructure.
+- Strong communication and teamwork skills.
+
+**Desired Skills:**  
+- Experience with Java EE (EJB, JTA, JAX-RS, JAX-WS, CDI, Managed Beans).
+- Front-end development knowledge.
+- JVM profiling, troubleshooting, and configuration experience.
+- Familiarity with OSGi.
+
+Join Rhapsody and shape the future of healthcare technology!

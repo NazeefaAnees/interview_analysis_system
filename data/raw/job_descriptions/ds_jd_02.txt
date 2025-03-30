@@ -1,0 +1,23 @@
+
+### **Data Scientist**
+
+**Job Purpose:**  
+We're seeking a skilled Data Scientist passionate about using data to drive strategic decisions. You'll develop analytics use cases, provide actionable insights, and support digital transformation by acquiring, modeling, and analyzing data.
+
+**Key Responsibilities:**  
+- Develop and implement data-driven solutions aligned with organizational goals.
+- Apply advanced analytics techniques to generate actionable insights.
+- Acquire, transform, and model data to inform strategic decisions.
+- Collaborate cross-functionally to support digitization objectives.
+
+**Qualifications:**  
+- Degree in Engineering, Computer Science, Statistics, or IT-related field.
+- Minimum 70% score on Data Scientist entry exam (external hires).
+
+**Skills & Experience:**  
+- Strong understanding of machine learning methods and algorithms.
+- Proficiency in Python or R.
+- Skilled in data visualization and clearly communicating findings.
+- Familiarity with data engineering (data warehouses, big data, cloud).
+- Eager to continuously update and enhance skills.
+

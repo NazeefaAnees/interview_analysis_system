@@ -1,0 +1,20 @@
+
+### **Data Scientist**
+
+**Responsibilities:**
+- Collaborate with business units to identify and develop data-driven opportunities.
+- Perform advanced data analytics, visualization, and concept development.
+- Handle ad-hoc reporting needs beyond data analyst scope.
+- Design data integrations (internal/external) in big data or data warehouse environments.
+- Work cross-functionally to build and deploy data-driven use cases.
+- Monitor performance, optimize models, and refine processes with stakeholders.
+- Research industry trends and best practices.
+- Mentor junior data analysts/scientists.
+
+**Qualifications:**
+- Degree in Engineering, IT, Computer Science, or Statistics.
+- 2-3 years relevant experience in data science/analytics.
+- Strong knowledge of machine learning techniques and algorithms.
+- Proficient in Python or R.
+- Skilled in data visualization and clear communication of insights.
+- Understanding of data engineering concepts across diverse environments.

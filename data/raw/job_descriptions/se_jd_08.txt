@@ -1,0 +1,32 @@
+
+### **Software Developer**
+
+**About Sitecore:**  
+Sitecore is a leading digital experience platform trusted by global brands like American Express, Porsche, Starbucks, L’Oréal, and Volvo Cars. Our platform integrates content, commerce, and data to deliver personalized customer experiences.
+
+**Responsibilities:**  
+- Design, develop, and deliver high-quality features and bug fixes.
+- Write clean, maintainable code aligned with Sitecore guidelines and best practices.
+- Collaborate closely with Technical Managers, Leads, QA, and stakeholders.
+
+**Qualifications:**  
+- 3+ years of software development experience.
+
+**Required Skills:**  
+- Proficiency in C#/.NET, Typescript, and Terraform.
+- Experience with Git and branching strategies.
+- Database experience: SQL Server and NoSQL.
+- Familiarity with DevOps practices, CI/CD pipelines, and testing (unit/integration).
+- Experience in containerized application development (Docker, Kubernetes).
+
+**Preferred Skills:**  
+- Performance optimization and profiling experience.
+- Familiarity with Visual Studio, VSCode, and ReSharper.
+- Knowledge of modern SaaS architectures and Azure cloud services.
+
+**Soft Skills:**  
+- Excellent communication skills in English.
+- Collaborative and supportive team-player.
+- Passionate about continuous learning and innovation.
+- Self-motivated and detail-oriented, comfortable under pressure.
+- Eager to stay updated with technology trends.

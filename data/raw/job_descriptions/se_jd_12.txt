@@ -1,0 +1,26 @@
+
+
+### **Full-Stack Developer**
+
+**About Rooster:**  
+Rooster is a hiring platform that helps employers efficiently discover, manage, and recruit top talent by automating workflows and enhancing candidate experiences. We're seeking skilled individuals to join our team and scale Rooster globally.
+
+**Responsibilities:**  
+- Execute full-cycle development from design through implementation.
+- Maintain code integrity, version control, documentation, and organization.
+- Collaborate with designers for intuitive, responsive UI/UX.
+- Develop clean, scalable, and efficient APIs.
+- Innovate and solve technical challenges proactively.
+- Manage application releases, deployments, and documentation.
+
+**Requirements:**  
+- Bachelor's degree in Computer Science or a related field.
+- 2+ years as a Full-Stack Developer.
+- Extensive experience with GraphQL.
+- Proficient in JavaScript frameworks (Angular, React, Express).
+- Strong skills in REST API design using Node.js, Express, Python, and MongoDB.
+- Expertise in HTML5, CSS3, AJAX, Bootstrap or Material-UI.
+- Familiarity with TypeScript (preferred).
+- Experience with CI/CD pipelines, AWS or GCP deployments, server management (Node.js, Nginx, SSH).
+- Knowledge of web application security best practices.
+- Docker experience is a plus.

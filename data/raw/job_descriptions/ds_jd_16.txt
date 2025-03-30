@@ -1,0 +1,46 @@
+
+### **AI Engineer**
+
+**About Growth-Prof:**  
+Growth-Prof is an innovative fintech company utilizing AI and machine learning to revolutionize banking services. We're dedicated to enhancing transaction processing and customer experience through advanced classification models.
+
+---
+
+### **Job Overview:**  
+We're seeking a skilled **AI Engineer** to develop and deploy machine learning models focused on classifying bank transactions. Ideal candidates possess strong ML expertise, software engineering skills, and a passion for applying AI to financial solutions.
+
+---
+
+**Key Responsibilities:**
+
+- Design, develop, and deploy ML models for transaction classification.
+- Collaborate with data scientists and product managers to define project requirements.
+- Preprocess and analyze large datasets for feature extraction and model training.
+- Optimize model performance (accuracy, precision, recall, F1-score).
+- Utilize ML frameworks such as TensorFlow, PyTorch, or scikit-learn.
+- Deploy and scale models using cloud platforms (e.g., Azure).
+- Maintain documentation for models, processes, and results.
+- Stay informed on the latest AI/ML advancements and fintech trends.
+
+---
+
+**Qualifications:**
+
+- Bachelor’s/Master’s degree in Computer Science, Data Science, or related fields.
+- Proven experience developing classification-focused ML models.
+- Strong Python programming skills (NumPy, pandas, scikit-learn).
+- Experience with deep learning frameworks (TensorFlow, Keras, PyTorch).
+- Expertise in data preprocessing, feature engineering, and evaluation.
+- Knowledge of banking or financial fraud detection (preferred).
+- Excellent analytical, problem-solving, and communication skills.
+
+---
+
+**Additional Information:**
+
+- Competitive salary and benefits.
+- Opportunity to work on cutting-edge fintech AI projects.
+- Collaborative, supportive team environment emphasizing continuous learning.
+- Full-time, two-year commitment (Independent Contractor).
+
+---

@@ -1,0 +1,25 @@
+
+
+### **Data Engineer**
+
+**About EY:**  
+EY empowers you with global scale, inclusive culture, and technology, enabling you to build a career as unique as you. Join us to deliver exceptional client experiences and create a better working world.
+
+**The Opportunity:**  
+Join EY’s Data and Analytics (EY-DnA) team to help clients optimize data efficiency, quality, and insights. You'll develop robust data analytics solutions, helping clients make informed business decisions.
+
+**Responsibilities:**  
+- Build data pipelines; perform data profiling, cleansing, validation, integration, transformation, and migration.
+- Collaborate within project teams to deliver high-quality data engineering solutions.
+- Communicate effectively with onsite coordinators and stakeholders.
+- Provide regular progress updates and complete assigned tasks timely.
+
+**Key Skills & Experience:**  
+- 3+ years of experience in data warehousing environments.
+- Strong expertise in Snowflake; experience with Azure Synapse is beneficial.
+- Proficiency in PySpark/Spark SQL; familiarity with Scala, Java, or Python on Spark.
+- Solid understanding of ETL/ELT processes, data warehousing architectures, and analytics tools.
+- Excellent analytical, problem-solving, and debugging skills.
+
+**Preferred:**  
+- Specialization or domain expertise in a specific sector is advantageous.

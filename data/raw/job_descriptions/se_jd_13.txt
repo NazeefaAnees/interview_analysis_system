@@ -1,0 +1,25 @@
+
+
+### **Senior Python Developer (Django)**
+
+**Key Responsibilities:**  
+- Translate designs and wireframes into efficient, functional code using Python/Django.
+- Develop and maintain high-performance server-side logic.
+- Write reusable, testable, scalable, and secure code.
+- Collaborate with cross-functional teams (UI/UX, Front-end, Product) for seamless integration.
+- Debug, troubleshoot, and optimize application performance.
+- Implement security and data protection best practices.
+- Stay updated on industry trends in Python/Django development.
+
+**Requirements:**  
+- 5+ years of experience in Python development.
+- Minimum 3 years hands-on Django experience.
+
+**Technical Skills:**  
+- Strong expertise in Python and Django.
+- Familiarity with front-end integration (HTML, CSS, JavaScript).
+- Experience with PostgreSQL/MySQL and Django ORM.
+- Solid understanding of RESTful API development.
+- Proficiency in Git for version control and collaboration.
+
+---

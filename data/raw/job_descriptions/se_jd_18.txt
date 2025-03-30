@@ -1,0 +1,34 @@
+
+
+### **Advanced Python Developer (Web APIs)**
+
+**Role Overview:**  
+We’re seeking an experienced Python Developer specializing in Web API development to design, build, and maintain scalable web applications and APIs.
+
+**Key Responsibilities:**  
+- Develop efficient Web APIs using Python frameworks (FastAPI, Flask, Django).
+- Write clean, maintainable code following SOLID and DRY principles.
+- Collaborate with teams to deliver high-quality, responsive applications.
+- Troubleshoot, debug, and resolve API issues promptly.
+- Conduct code reviews, ensuring consistent quality.
+- Develop automated unit and integration tests.
+- Participate in architectural decisions and system design.
+- Stay updated on industry best practices and new technologies.
+
+**Qualifications:**  
+- Bachelor’s degree in Computer Science or related field.
+- 5+ years of Python development experience.
+- Extensive experience building Web APIs (FastAPI, Flask, Django).
+- Strong understanding of RESTful API design.
+- Experience with SQL/NoSQL databases (MySQL, PostgreSQL, MongoDB).
+- Familiarity with version control (Git) and CI/CD pipelines.
+- Solid problem-solving skills.
+
+**Preferred Skills:**  
+- Knowledge of AI/ML frameworks (TensorFlow, PyTorch, scikit-learn).
+- Experience deploying applications on AWS, GCP, or Azure.
+- Familiarity with Docker and Kubernetes.
+- Experience in asynchronous programming and high-concurrency systems.
+- Understanding of API security best practices.
+
+---

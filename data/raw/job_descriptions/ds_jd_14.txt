@@ -1,0 +1,36 @@
+
+
+### **Machine Learning Lead**
+
+As a **Machine Learning Lead**, you'll drive technical vision, team leadership, and successful deployment of AI solutions serving millions of users. You’ll define long-term AI strategies, mentor engineering teams, and lead innovation in scalable machine learning models.
+
+---
+
+**Key Responsibilities:**
+- Lead AI and ML strategy, roadmap, and innovation.
+- Develop and deploy state-of-the-art deep learning algorithms and large language models (LLMs).
+- Design scalable architectures and optimize AI frameworks.
+- Collaborate cross-functionally with product, software, sales, and marketing teams.
+- Manage ML project lifecycles, resource allocation, timelines, and budgets.
+- Mentor and foster a collaborative and innovative AI engineering team.
+- Present AI-driven insights to technical and business stakeholders, driving commercial success.
+
+---
+
+**Qualifications:**
+- 7-10 years experience building and deploying ML models in large-scale systems.
+- Strong hands-on experience with deep learning, particularly training and deploying LLMs.
+- Proficient in Python and ML frameworks (PyTorch, Jax, Scikit-learn).
+- Proven track record delivering AI products to commercial markets.
+- Exceptional communication skills to translate complex technical ideas clearly.
+- Experience mentoring engineering teams and managing cross-functional collaboration.
+
+---
+
+**Skills & Competencies:**
+- Strategic and innovative leadership in AI/ML.
+- Excellent analytical and problem-solving abilities.
+- Detail-oriented, with strong organizational skills.
+- Effective communicator, capable of engaging diverse audiences.
+- Experience scaling AI solutions to millions of users.
+

@@ -1,0 +1,33 @@
+
+### **Python Data Scientist / Analyst (Remote)**
+
+**Experience:** 4+ years  
+**Location:** Fully remote (Worldwide)  
+**Contract Duration:** 6-12 months  
+**Work Hours:** 8 AM - 4 PM PST (minimum 5 hours overlap)
+
+---
+
+### **Role Overview:**
+We’re hiring experienced Data Scientists & Analysts proficient in Python to develop innovative AI-driven solutions for leading US-based companies. This role is perfect for analytical minds eager to influence cutting-edge artificial intelligence and data analysis projects.
+
+---
+
+### **Responsibilities:**
+- Write efficient Python code to solve complex business and AI challenges.
+- Analyze large datasets (Kaggle, UN, US government) to generate actionable insights.
+- Clearly document and communicate findings in Jupyter notebooks or similar tools.
+- Collaborate effectively with researchers and stakeholders to achieve project objectives.
+- Debug code, resolve issues, and provide thorough documentation.
+
+---
+
+### **Requirements:**
+- Bachelor’s/Master’s degree in Engineering, Computer Science, or related field.
+- 4+ years as a Data Scientist; 3+ years in data analysis.
+- Minimum 4 years Python programming experience.
+- Strong analytical, problem-solving, and business-oriented thinking.
+- Excellent conversational and written English skills.
+- Ability to clearly communicate technical insights to diverse stakeholders.
+
+---

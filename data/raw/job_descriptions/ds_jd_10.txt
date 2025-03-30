@@ -1,0 +1,26 @@
+
+
+### **Software Engineer (AI Data & Annotation) – Contract Role**
+
+Join our client, a fast-growing AI data company, in a flexible contract role (part-time from 20 hrs/week or full-time). You’ll collect, curate, annotate AI data, refine code, and enhance model accuracy. This role is fully remote and ideal for engineers passionate about AI technology.
+
+**Responsibilities:**
+- Collect, curate, and annotate AI data to train and evaluate AI models.
+- Review and refine code and prompts to ensure accurate AI outputs.
+- Contribute to improving overall AI system performance.
+
+**Qualifications:**
+- Degree in Computer Science or related field.
+- Proficiency in one or more programming languages: Java, Python, C/C++, Go, SQL, Node.js, React, TypeScript, MongoDB.
+- Strong problem-solving abilities and excellent English communication skills.
+- Self-motivated, goal-oriented, and comfortable working independently in remote teams.
+- Experience collaborating or leading teams in dynamic, fast-paced environments.
+
+**Hiring Process:**
+- One-hour coding challenge.
+- Final interview for shortlisted candidates.
+
+**What's on Offer:**
+- Competitive hourly compensation.
+- Fully remote with flexible hours (min 20 hrs/week part-time or full-time).
+- Collaborative work environment in an innovative AI-focused company.

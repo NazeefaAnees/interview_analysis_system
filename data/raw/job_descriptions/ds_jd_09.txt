@@ -1,0 +1,31 @@
+
+
+### **Lead AI Engineer**
+
+Join **Synopsys’ Generative AI Center of Excellence**, a team dedicated to advancing generative AI solutions across the company. As Lead AI Engineer, you'll design, develop, and deploy innovative AI/ML solutions, provide technical leadership, and collaborate with stakeholders to deliver cutting-edge products.
+
+**Key Responsibilities:**
+- Design, develop, and deploy advanced AI and ML models to solve complex business challenges.
+- Provide technical leadership and mentorship to junior engineers and data scientists.
+- Collaborate cross-functionally with product managers and engineers to deliver AI solutions.
+- Perform data analysis, preprocessing, and feature engineering for model development.
+- Train, evaluate, fine-tune, and deploy machine learning models into production.
+- Monitor model performance, ensuring accuracy and optimal operations.
+- Document methodologies, models, and processes clearly for knowledge sharing.
+- Ensure AI solutions comply with ethical standards and data privacy regulations.
+- Stay current on AI advancements, applying them to enhance existing or new systems.
+
+**Qualifications:**
+- Bachelor's/Master’s degree (PhD preferred) in Computer Science, Data Science, Electrical Engineering, or related fields.
+- Minimum 4 years of experience deploying AI/ML solutions in production environments.
+- Strong proficiency in Python or C++ programming.
+- Expertise with ML frameworks (TensorFlow, PyTorch, scikit-learn).
+- Knowledge of statistical analysis, data mining, and visualization techniques.
+- Experience with cloud platforms (AWS, Azure, GCP) and container technologies (Docker, Kubernetes).
+- Familiarity with Git and Agile methodologies.
+
+**Skills:**
+- Excellent problem-solving, analytical, and leadership abilities.
+- Strong interpersonal and communication skills.
+- Proven capability in mentorship and team collaboration.
+

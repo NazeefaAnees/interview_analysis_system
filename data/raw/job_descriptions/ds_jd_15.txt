@@ -1,0 +1,58 @@
+
+
+### **Data Science Engineer**
+
+We’re seeking a skilled **Data Science Engineer** experienced in Python, AI, data analysis, and pipeline development. You’ll gather, analyze, and model data, build scalable pipelines, and apply machine learning to deliver actionable insights.
+
+---
+
+**Responsibilities:**
+
+- **Data Collection & Preparation:**
+  - Gather, clean, and preprocess data from diverse sources.
+  - Automate data workflows for improved efficiency and accuracy.
+
+- **Data Analysis & Modeling:**
+  - Perform exploratory data analysis (EDA) to uncover trends and insights.
+  - Build machine learning models aligned with business objectives.
+  - Clearly communicate analytical findings to stakeholders.
+
+- **AI & ML Implementation:**
+  - Develop/train ML models using Python (TensorFlow, Keras, Scikit-learn).
+  - Experiment with NLP, computer vision, supervised/unsupervised learning.
+  - Collaborate with cross-functional teams to deploy AI solutions.
+
+- **Pipeline Development:**
+  - Build and maintain robust, efficient data pipelines.
+  - Optimize data pipelines for scalability and reliability in production.
+
+- **Collaboration & Communication:**
+  - Document analyses, models, and processes clearly.
+  - Create visualizations, dashboards, and reports for team and stakeholder use.
+
+- **Continuous Improvement:**
+  - Keep up-to-date with industry trends and innovations.
+  - Recommend improvements to infrastructure, models, and workflows.
+
+---
+
+**Qualifications:**
+
+- 2+ years of experience in data science, ML, pipelines, and Python.
+- Proficiency with Python libraries (Pandas, NumPy, TensorFlow, PySpark, SQLAlchemy).
+- Experience deploying ML models to production.
+- Familiarity with data visualization tools (Tableau, Power BI, Matplotlib).
+- Strong SQL/database skills.
+- Excellent communication and teamwork abilities.
+- Bachelor’s/Master’s in Data Science, AI, CS, Engineering, or related field.
+
+---
+
+**Preferred Skills:**
+
+- Experience with big data tools (Spark, Hadoop).
+- Familiarity with workflow automation (Airflow, Luigi).
+- Knowledge of deep learning and NLP.
+- Understanding of MLOps and model deployment practices.
+- Exposure to cloud platforms (AWS, Google Cloud, Azure).
+

@@ -1,0 +1,41 @@
+
+
+### **Senior Machine Learning Engineer – OCTAVE**
+
+Join **OCTAVE**, the analytics and digital insights team of **John Keells Holdings PLC (JKH)**, Sri Lanka’s largest listed conglomerate. We leverage one of Sri Lanka’s richest data lakes to drive strategic decisions, build innovative ML solutions, and positively impact millions.
+
+---
+
+### **Role Overview:**
+As a **Senior ML Engineer**, you'll develop, deploy, and optimize machine learning models and pipelines. You'll collaborate cross-functionally to solve complex business problems, utilizing state-of-the-art ML and MLOps practices.
+
+---
+
+### **Key Responsibilities:**
+- Design, build, and deploy scalable machine learning models and algorithms.
+- Optimize and manage ML pipelines for production readiness.
+- Implement advanced MLOps best practices (feature stores, CI/CD, monitoring, etc.).
+- Continuously evaluate and enhance model performance and reliability.
+- Research emerging AI/ML techniques and integrate relevant innovations.
+- Collaborate closely with data scientists, engineers, and domain experts.
+- Document processes, models, and technical solutions comprehensively.
+- Contribute to code reviews, discussions, and knowledge sharing.
+
+---
+
+### **Qualifications & Experience:**
+
+**Technical:**
+- Bachelor's/Master’s degree in Computer Science, AI, Machine Learning, Mathematics, or related field.
+- Minimum 3 years of hands-on experience developing and deploying ML models.
+- Strong proficiency in Python and PySpark (including performance optimization).
+- Expertise in ML libraries: TensorFlow, PyTorch, Scikit-learn, Keras.
+- Experience deploying ML models in cloud environments (Azure preferred) and containerization (Docker/Kubernetes).
+- Passionate about continuous learning and staying current with ML advancements.
+
+**Soft Skills:**
+- Excellent analytical, problem-solving, and communication skills.
+- Collaborative, team-oriented mindset.
+- Strong sense of ownership, accountability, and project delivery.
+- Ability to mentor and lead junior team members.
+

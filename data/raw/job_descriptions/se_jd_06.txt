@@ -1,0 +1,38 @@
+
+
+### **Senior Software Engineer (.NET)**  
+*(1-Year Renewable Contract)*  
+
+**About Caploitte:**  
+Caploitte delivers innovative digital solutions tailored to diverse industries, helping businesses thrive through technology and innovation.  
+
+**Role Overview:**  
+We’re looking for a Senior Software Engineer with strong .NET expertise. You will design, develop, and maintain high-quality software applications, collaborating closely with cross-functional teams.
+
+**Responsibilities:**  
+- Design, develop, and maintain software using .NET frameworks (ASP.NET, MVC).  
+- Translate project requirements into technical solutions.  
+- Apply best practices in coding standards, design patterns, and performance optimization.  
+- Conduct code reviews and mentor team members.  
+- Troubleshoot, debug, and resolve software issues.  
+- Stay updated on new technologies and trends.
+
+**Qualifications:**  
+
+**.NET:**  
+- 6+ years of experience in ASP.NET and MVC.  
+- Knowledge of Design Patterns, MVC, LINQ, Entity Framework.  
+- Experience with HTTP, SOAP, REST, XML, JSON.  
+- Hands-on experience in SQL Server (queries, stored procedures, optimization).  
+- Familiarity with Azure Cloud (preferred).
+
+**Frontend:**  
+- 2+ years’ experience with Angular, React, or Bootstrap is a plus.
+
+**Other Skills:**  
+- Strong communication skills (verbal and written English).
+
+**Benefits:**  
+- Competitive salary with career growth opportunities.  
+- Challenging projects in a dynamic, collaborative environment.  
+- Flexible work arrangements and work-life balance.

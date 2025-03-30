@@ -1,0 +1,34 @@
+
+**Senior Software Engineer**
+
+**Location:** Colombo, Sri Lanka (Hybrid)
+
+**About CUBE:**  
+CUBE, recently recognized as a "RegTech Top Performer," is a global leader in regulatory intelligence solutions. We use cutting-edge AI and cloud technology to simplify compliance for top financial institutions worldwide.
+
+**Role Overview:**  
+As a Senior Software Engineer at CUBE, you'll develop and enhance our flagship SaaS product. You'll deliver high-quality code, optimize content processing solutions, and collaborate closely with cross-functional teams in a fast-paced environment.
+
+**Responsibilities:**  
+- Develop and implement product features using .NET and cloud technologies.
+- Expand and optimize content processing solutions to meet business needs.
+- Design and deliver new product features; troubleshoot existing products.
+- Work effectively in a dynamic, deadline-driven environment.
+
+**Essential Skills:**  
+- 1+ years as a Senior Software Engineer.
+- Extensive experience in .NET/C#.
+- Strong knowledge of Angular.
+- Understanding of Cloud development (Azure, AWS, etc.).
+- Excellent communication and teamwork skills.
+
+**Beneficial Skills:**  
+- Azure cloud services
+- Python, React
+- Docker, Kubernetes
+
+**Why Join CUBE?**  
+- Globally recognized leader in RegTech, serving institutions like Revolut, Citi, and HSBC.
+- Significant opportunities for growth, flexibility, and career advancement.
+- International, collaborative team environment across Europe, Americas, and APAC.
+- Work with innovative technologies on projects with meaningful global impact.
