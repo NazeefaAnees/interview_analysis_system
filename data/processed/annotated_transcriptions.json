@@ -10,13 +10,13 @@
       "communication": 0.94,
       "cultural_fit": 0.93,
       "overall_suitability": 0.93,
-      "explanation": "Maria demonstrates exceptional technical skills with 6 years of relevant fintech experience and proficiency in the required technologies (LightGBM, XGBoost, Python, SQL). Her direct experience with market expansion in Southeast Asia is particularly valuable. She articulates a structured approach to problem-solving with specific examples from similar markets. Her communication is clear, detailed, and professional, and she shows strong alignment with the company's mission of financial inclusion. Her location in Singapore and basic Tagalog skills are additional assets for this role."
+      "explanation": " demonstrates exceptional technical skills with 6 years of relevant fintech experience and proficiency in the required technologies (LightGBM, XGBoost, Python, SQL). Her direct experience with market expansion in Southeast Asia is particularly valuable. She articulates a structured approach to problem-solving with specific examples from similar markets. Her communication is clear, detailed, and professional, and she shows strong alignment with the company's mission of financial inclusion. Her location in Singapore and basic Tagalog skills are additional assets for this role."
     },
     "segments": [
       {
         "segment_id": "t001_a01",
         "speaker": "Candidate",
-        "text": "Good morning, Raj. That sounds great. I'm excited to learn more about the role and share my experience with you.",
+        "text": "Good morning. That sounds great. I'm excited to learn more about the role and share my experience with you.",
         "labels": {
           "technical_skills": false,
           "problem_solving": false,
